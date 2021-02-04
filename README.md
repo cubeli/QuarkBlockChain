@@ -2,6 +2,8 @@
 
 #链信
 
+- [QKI星球池](https://app.web3defi.io/#/superNode2 ':target=_blank')
+
 #QKFILE
 
 #交易所
