@@ -31,9 +31,8 @@
 # QKFILE
 
 - [QKFILE-注册](https://airdrop.qkfile.org/register?invite_code=mSh57f ':target=_blank')
-> ```
 > qkfile是一个旨在创建持久且分布式存储和共享文件的网络传输协议，它基于ipfs，它是一种内容可寻址的对等超媒体分发协议，在qkfile网络中的节点将构成一个分布式文件系统。它是一个开放源代码项目，自2014年开始由Protocol Labs在开源社区的帮助下发展。
-> ```
+
 - [QKFILE-APP](https://shandianpan.com/f/1JX0 ':target=_blank')【1.2.0】
 - [QKFILE-登录](https://airdrop.qkfile.org/?v=v ':target=_blank')
 - [QKFILE-官网](https://qkfile.io/ ':target=_blank')
