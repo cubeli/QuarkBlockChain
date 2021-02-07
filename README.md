@@ -30,65 +30,67 @@
 
 # QKFILE
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [QKFILE-注册](https://airdrop.qkfile.org/register?invite_code=mSh57f ':target=_blank')
+  qkfile是一个旨在创建持久且分布式存储和共享文件的网络传输协议，它基于ipfs，它是一种内容可寻址的对等超媒体分发协议，在qkfile网络中的节点将构成一个分布式文件系统。它是一个开放源代码项目，自2014年开始由Protocol Labs在开源社区的帮助下发展。
+- [QKFILE-APP](https://shandianpan.com/f/1JX0 ':target=_blank')【1.2.0】
+- [QKFILE-登录](https://airdrop.qkfile.org/?v=v ':target=_blank')
+- [QKFILE-官网](https://qkfile.io/ ':target=_blank')
+- [闪电盘注册](https://lightings.cloud/pub/page/#/registered?i=fy03 ':target=_blank')
+- [闪电盘官网](https://lightings.cloud/ ':target=_blank')
+- [QKFILE地址查询](https://qkiscan.cn/address/0x60cc940b6284a4c947224c108b0e9538fdfb292c/token?page=1 ':target=_blank')
+- [闪电盘白皮书](https://shandianpan.com/f/N ':target=_blank')
+
 
 # 交易所
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [QKSWAP注册](ttps://v1.qkswap.io/register?invitation_code=xagzhz ':target=_blank')
+- [QKSWAP](https://app.qkswap.io/swap ':target=_blank')
+- [UPUPEX-注册](https://www.upupex.com/register/Bisl9L ':target=_blank')
+- [UPUPEX-登录](https://www.upupex.com/login ':target=_blank')
+- [UPUPEX-App](https://www.upupex.com/m/other/download ':target=_blank')
+- [GOKO注册](https://www.goko.com/zh_CN/register?inviteCode= ':target=_blank')
+- [GOKO登录](https://www.goko.com/zh_CN/login ':target=_blank')
 
 # 区块链钱包地址一键查询
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [QKI星球池-5U](https://qkiscan.cn/address/0x419a7356dc08bf5a20d9f660dee723ecb9345b72 ':target=_blank')
+- [QKI星球池-10U](https://qkiscan.io/address/0x134e0600b1ec8924e7b5ec7d51568093e0bbf8cb ':target=_blank')
+- [QKI星球池-100U](https://qkiscan.cn/address/0x164f31a5bfa746bcc55bd2279a400b645e99aaeb ':target=_blank')
+- [2.0回购销毁](https://qkiscan.cn/address/0x0000000000000000000000000000000000000066/token ':target=_blank')
+- [回购燃烧地址](https://qkiscan.io/address/0x0000000000000000000000000000000000000002/token ':target=_blank')
+- [通证列表](https://qkiscan.cn/tokens ':target=_blank')
+- [UPUPEX](https://qkiscan.cn/address/0x42b293dacd2bcf7875eb72e0265c88807e800001/token ':target=_blank')
+- [GOKO地址](https://qkiscan.cn/address/0xe0707b32860d7fa9618e2c3a8f143b02b18d7e04/token ':target=_blank')
+- [闪耀节点列表](https://qkiscan.cn/bp ':target=_blank')
+- [以太坊跨链](https://qkiscan.cn/address/0xdf5847179f48db8a1841f9986c7446faff0a8795/token ':target=_blank')
+- [黄金矿工](https://qkiscan.cn/address/0xc0ec96b6b485bf9469a7ad13cdfe9f58b990fee0/token ':target=_blank')
+- [PC节点统计列表](https://qkiscan.io/node-statistics ':target=_blank')
 
 # 社群专区
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [QKFILE官方社群](https://t.me/qkfile ':target=_blank')
+- [CCT官方社群](https://t.me/joinchat/FvmSinQmnaRupdKx ':target=_blank')
+- [QKI官方社群](https://t.me/quarkblockchain ':target=_blank')
+- [UPUPEX官方社群](https://t.me/upupexglobal ':target=_blank')
+- [QKPAY官方社群](https://t.me/QuarkPay ':target=_blank')
+- [夸克官方开发者社群](https://t.me/QuarkDapp ':target=_blank')
 
 
 # 产出模拟器专区
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [QKFILE模拟器](http://ccts.space/#/qkf-simulator ':target=_blank')
+- [CCT模拟器](http://ccts.space/#/cct-simulator ':target=_blank')
+- [猫爪任务模拟器](http://zjzqwl.com/examples/maozhua/index.html ':target=_blank')
 
 # 第三方（持续添加中）
 
-- []( ':target=_blank')
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [猫爪短视频](https://h5.catspawvideo.com/#/download ':target=_blank')
+- [CCT锁仓排行榜](https://www.cctjf.com/app/_index.html#pages/cctfinancial/thirdrank ':target=_blank')
+- [黄金矿工](https://gold-miner-game.com/login ':target=_blank')
 
 # 其他工具类
 
-- []( ':target=_blank')
-- []( ':target=_blank')
+- [Uniswap](https://uniswap.consenlabs.com/#/swap ':target=_blank')
+- [以太坊浏览器](https://cn.etherscan.com/ ':target=_blank')
 
 
